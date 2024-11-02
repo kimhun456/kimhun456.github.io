@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "첫번째 글"
-permalink: firstpage
 categories: 블로그 
 ---
 
